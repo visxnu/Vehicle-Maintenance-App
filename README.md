@@ -103,6 +103,4 @@ Visit `http://127.0.0.1:8000/` to explore the app locally.
 
 If you like this project, don’t forget to ⭐ the repo!
 
----
 
-Let me know if you want to include demo videos, deploy it on a cloud server (like Render/Heroku), or turn this into a portfolio-ready presentation. I can also help create a logo or interface screenshots if needed.
