@@ -94,8 +94,8 @@ Visit `http://127.0.0.1:8000/` to explore the app locally.
 ## 👨‍💻 Developed By
 
 **Vishnu**  
-📧 [Connect on LinkedIn](https://www.linkedin.com/in/visxnu)  
-🔗 [Portfolio](https://visxnu.github.io)
+📧 [Connect on LinkedIn](www.linkedin.com/in/visxu)  
+🔗 [Portfolio](https://profile-vishnu-v.vercel.app/)
 
 ---
 
