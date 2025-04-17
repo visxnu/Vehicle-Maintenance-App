@@ -1,0 +1,21 @@
+{% extends 'core/base.html' %}
+{% block content %}
+<h2 class="mb-4 text-danger">Contact Us</h2>
+<div class="card p-4 shadow-sm">
+    <form>
+        <div class="mb-3">
+            <label class="form-label">Your Name</label>
+            <input type="text" class="form-control" placeholder="Enter your name">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email address</label>
+            <input type="email" class="form-control" placeholder="Enter your email">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Message</label>
+            <textarea class="form-control" rows="4" placeholder="Your message..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-danger">Send</button>
+    </form>
+</div>
+{% endblock %}

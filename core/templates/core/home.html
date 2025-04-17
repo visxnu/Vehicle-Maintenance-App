@@ -1,0 +1,8 @@
+{% extends 'core/base.html' %}
+{% block content %}
+<div class="text-center">
+    <h1 class="display-4 text-danger fw-bold">Welcome to Pro-mechanic</h1>
+    <p class="lead mt-3">Your one-stop app for car service, repairs, and insurance claims.</p>
+    <a href="{% url 'services' %}" class="btn btn-outline-danger mt-4 px-4 py-2">Explore Services</a>
+</div>
+{% endblock %}
